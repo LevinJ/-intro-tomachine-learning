@@ -1,1 +1,1 @@
-# -intro-tomachine-learning
+Udacity intro to machine learning course
